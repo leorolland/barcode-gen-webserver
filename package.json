@@ -1,0 +1,24 @@
+{
+  "name": "barcode-gen-webserver",
+  "version": "1.0.0",
+  "description": "Barcode image generator webserver",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leorolland/barcode-gen-webserver.git"
+  },
+  "keywords": [
+    "barcode",
+    "generator",
+    "web"
+  ],
+  "author": "Léo Rolland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leorolland/barcode-gen-webserver/issues"
+  },
+  "homepage": "https://github.com/leorolland/barcode-gen-webserver#readme"
+}
